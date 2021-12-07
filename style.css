@@ -1,0 +1,49 @@
+body{
+    margin:20% 45%;
+}
+.container{
+    display: flex;
+
+}
+
+
+.user_input{
+    color:#a54946;
+    background-color:white;
+    border: 0.1px solid;
+    padding: 22px 30px;
+    width: 30px;
+    height:20px;
+    border-right: none;
+    border-left: none;
+    box-sizing:content-box;
+    text-align: center;
+   
+ 
+}
+
+
+.add button{
+    color:white;
+    background-color:#a54946;
+    border: 0.2px solid;
+    padding: 24.5px 30px;
+    margin-left:-1px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius:  5px;
+    cursor: pointer;
+}
+
+
+.min button{
+    color:#a54946;
+    background-color:white;
+    border: 0.1px solid;
+    padding: 24.5px 30px;
+    border-top-left-radius:  5px;
+    border-bottom-left-radius:  5px;
+    cursor: pointer;
+}
+
+
+
